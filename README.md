@@ -53,3 +53,8 @@ We need a toggle switch for easy access to toggle the keyboard ON/OFF. This is t
 1. Re-purpose the TRRS cable hole in the case for the toggle switch. Use a deburring tool (or soldering iron) to increase the diameter of the hole if needed.
 2. For the specific toggle switches that I used, I oriented it in such a way that the pins of the toggle switches face the keycaps.
 
+### BATTERY HOLDER COVER
+
+The dimensions of the cover are such that it exactly fits the battery holder. Using some amount of force to secure it should keep it in place firmly without any locks/magnetic snap fits.
+
+However, inserts are provided for cylindrical magnets of dimensions 4mm*2mm both on the battery holder and the battery cover.
