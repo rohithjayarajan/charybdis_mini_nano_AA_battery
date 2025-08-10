@@ -48,7 +48,7 @@ Installation is trivial:
 
 ### MOUNT TOGGLE SWITCH
 
-We need a toggle switch for easy access to toggle the keyboard ON/OFF. This is the solution I proceeded with, inspired by what a user in [BastardKB discord community](http://www.bstkbd.com/discord) used for their Ferrari themed keyboard build.
+We need a toggle switch for easy access to toggle the keyboard ON/OFF. This is the solution I proceeded with, inspired by community builds using the same toggle switch component in [BastardKB discord community](http://www.bstkbd.com/discord).
 
 1. Re-purpose the TRRS cable hole in the case for the toggle switch. Use a deburring tool (or soldering iron) to increase the diameter of the hole if needed.
 2. For the specific toggle switches that I used, I oriented it in such a way that the pins of the toggle switches face the keycaps.
