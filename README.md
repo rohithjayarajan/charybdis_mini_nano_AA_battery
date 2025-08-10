@@ -1,5 +1,14 @@
 # Charybdis Mini and Charybdis Nano with AA battery (14500 3.7v Li-Ion battery)
 
+#### CHARYBDIS MINI WITH AA BATTERY (TOP VIEW)
+<img src="images/cmini_top_closed_battery.jpg" width="1500">
+
+#### CHARYBDIS MINI WITH AA BATTERY (BOTTOM VIEW SHOWING MILLMAX HOTSWAP WITH SNAP FITS)
+<img src="images/cmini_bottom.jpg" width="1500">
+
+#### CHARYBDIS MINI WITH AA BATTERY (TOP VIEW WITHOUT BATTERY HOLDER COVER)
+<img src="images/cmini_top_open_battery.jpg" width="1500">
+
 Charybdis is an ergonomic, open source keyboard designed and developed by [Bastardkb](https://github.com/Bastardkb/Charybdis).
 
 The conventional wireless build for the Charybdis line of keyboards uses Li-Ion batteries, like the 401030 130mAh battery. The internal housing, which is specifically designed to be a wired keyboard, limits the battery size. Lower battery sizes offer less battery capacity, thereby reducing the battery life on the keyboard([ZMK battery life can be computed here](https://zmk.dev/power-profiler)).
